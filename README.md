@@ -1,5 +1,9 @@
 # Crossrate — SP-050 Currency Exchange Rate Tracker
 
+**Open the live website:** https://crossrate-currency-tracker.ayomideaminu.chatgpt.site
+
+The public website runs the Worker adapter in `hosting/`. The original Python/FastAPI and SQL implementation remains here for the SP-050 assignment. The hosted adapter uses best-effort edge caching rather than a durable SQL cache.
+
 A working Software Engineering project for Aminu Ibrahim Ayomide, final-year Computer Science student at the Air Force Institute of Technology.
 
 **Project ID:** SP-050 · **Domain:** Finance & Fintech · **Level:** Intermediate
